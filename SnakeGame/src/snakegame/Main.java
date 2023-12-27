@@ -8,7 +8,7 @@ import java.util.Scanner;
 /**
  *
  * @author firatgunay 
- *         erdem kucur  
+ *      
  */
 public class Main {
     
